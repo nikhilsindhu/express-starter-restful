@@ -1,0 +1,10 @@
+# Ignore these resources
+
+# Node modules
+node_modules
+
+# Build files (if any)
+build
+
+# Environment variables
+/src/config/config.env
