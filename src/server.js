@@ -1,9 +1,9 @@
-import express from 'express'
-import dotenv from 'dotenv'
-import morgan from 'morgan'
+let express = require('express')
+let dotenv = require('dotenv')
+let morgan = require('morgan')
 
 // Route files
-import starterRouter from '../src/routes/starter'
+let starterRouter = require('./routes/starter')
 
 // Load env vars
 dotenv.config({

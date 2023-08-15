@@ -1,0 +1,218 @@
+[
+  {
+    "level2ID": "1A20649E-499D-4452-8292-1225502C86F0",
+    "level2Name": "ANDAMAN & NICOBAR ISLANDS",
+    "level2": "STATE",
+    "level2Code": "35"
+  },
+  {
+    "level2ID": "091E88D9-332A-4169-81D5-9B01A867E886",
+    "level2Name": "ANDHRA PRADESH",
+    "level2": "STATE",
+    "level2Code": "28"
+  },
+  {
+    "level2ID": "8D9711CC-3B46-4161-8785-819D35CBA77E",
+    "level2Name": "ARUNACHAL PRADESH",
+    "level2": "STATE",
+    "level2Code": "12"
+  },
+  {
+    "level2ID": "966F786F-31CD-437F-B613-3430274407F2",
+    "level2Name": "ASSAM",
+    "level2": "STATE",
+    "level2Code": "18"
+  },
+  {
+    "level2ID": "D784EEBC-979A-4BCF-813B-194F93908582",
+    "level2Name": "BIHAR",
+    "level2": "STATE",
+    "level2Code": "10"
+  },
+  {
+    "level2ID": "742322BD-F027-4052-91E1-78819845662E",
+    "level2Name": "CHANDIGARH",
+    "level2": "STATE",
+    "level2Code": "04"
+  },
+  {
+    "level2ID": "2F3DE245-46E6-4C4D-9297-C0B23C803B15",
+    "level2Name": "CHHATTISGARH",
+    "level2": "STATE",
+    "level2Code": "22"
+  },
+  {
+    "level2ID": "0B2BFE7D-5BA2-4045-803F-837FCD200205",
+    "level2Name": "DADRA & NAGAR HAVELI",
+    "level2": "STATE",
+    "level2Code": "26"
+  },
+  {
+    "level2ID": "9E306D6E-3431-4C30-BD45-6DB9F17036AC",
+    "level2Name": "DAMAN AND DIU",
+    "level2": "STATE",
+    "level2Code": "25"
+  },
+  {
+    "level2ID": "277E6128-EFCC-4811-BBF1-0EECCCBE45CA",
+    "level2Name": "GOA",
+    "level2": "STATE",
+    "level2Code": "30"
+  },
+  {
+    "level2ID": "C3C7D9E1-1A72-4345-90CE-F3EF95643A4C",
+    "level2Name": "GUJARAT",
+    "level2": "STATE",
+    "level2Code": "24"
+  },
+  {
+    "level2ID": "5C77DA4F-BC9B-4099-BED7-15E06A45F376",
+    "level2Name": "HARYANA",
+    "level2": "STATE",
+    "level2Code": "06"
+  },
+  {
+    "level2ID": "B7EB6AF0-CF11-4E6E-9456-624F3962629C",
+    "level2Name": "HIMACHAL PRADESH",
+    "level2": "STATE",
+    "level2Code": "02"
+  },
+  {
+    "level2ID": "18691EED-BEB5-4D08-8E5F-E7C0FEC0F934",
+    "level2Name": "JAMMU AND KASHMIR",
+    "level2": "STATE",
+    "level2Code": "01"
+  },
+  {
+    "level2ID": "635A659A-5B03-4DA2-832F-A7DE3490C162",
+    "level2Name": "JHARKHAND",
+    "level2": "STATE",
+    "level2Code": "20"
+  },
+  {
+    "level2ID": "B4158B00-F216-4FCD-B4EF-C076DE041B94",
+    "level2Name": "KARNATAKA",
+    "level2": "STATE",
+    "level2Code": "29"
+  },
+  {
+    "level2ID": "4A6C9793-C23A-45E1-8F92-6DA0AC644944",
+    "level2Name": "KERALA",
+    "level2": "STATE",
+    "level2Code": "32"
+  },
+  {
+    "level2ID": "6995684C-59EF-4123-B303-36D0C2B2832A",
+    "level2Name": "LAKSHADWEEP",
+    "level2": "STATE",
+    "level2Code": "31"
+  },
+  {
+    "level2ID": "6693A237-25BD-4446-91E3-F7F05F3B2B21",
+    "level2Name": "MADHYA PRADESH",
+    "level2": "STATE",
+    "level2Code": "23"
+  },
+  {
+    "level2ID": "5FB484F4-A27D-46BF-8368-81656DFBB157",
+    "level2Name": "MAHARASHTRA",
+    "level2": "STATE",
+    "level2Code": "27"
+  },
+  {
+    "level2ID": "D04CABC0-A1FE-45F0-A2D7-C61BA2B042DD",
+    "level2Name": "MANIPUR",
+    "level2": "STATE",
+    "level2Code": "14"
+  },
+  {
+    "level2ID": "57CC16D0-F526-4DF4-A4AF-7A25929C06F1",
+    "level2Name": "MEGHALAYA",
+    "level2": "STATE",
+    "level2Code": "17"
+  },
+  {
+    "level2ID": "B42E77DD-1062-471B-9D91-CA4A7B545BFC",
+    "level2Name": "MIZORAM",
+    "level2": "STATE",
+    "level2Code": "15"
+  },
+  {
+    "level2ID": "0E05EC7B-EFE7-4EDF-A9D1-04FC2A78CFB3",
+    "level2Name": "NAGALAND",
+    "level2": "STATE",
+    "level2Code": "13"
+  },
+  {
+    "level2ID": "26C41F41-768D-44B6-A1BE-98A1C89A9DC4",
+    "level2Name": "NCT OF DELHI",
+    "level2": "STATE",
+    "level2Code": "07"
+  },
+  {
+    "level2ID": "E27AC9FE-6359-4790-B433-3680B1B1B11F",
+    "level2Name": "ODISHA",
+    "level2": "STATE",
+    "level2Code": "21"
+  },
+  {
+    "level2ID": "2FAEC0DE-A0F4-4D86-BE61-BAF617116DD0",
+    "level2Name": "PUDUCHERRY",
+    "level2": "STATE",
+    "level2Code": "34"
+  },
+  {
+    "level2ID": "75C8DC5D-1B7F-4DA1-AC20-E3CFF9F8BB00",
+    "level2Name": "PUNJAB",
+    "level2": "STATE",
+    "level2Code": "03"
+  },
+  {
+    "level2ID": "0A5BE76C-BDC2-4405-A32C-C46448FF136B",
+    "level2Name": "RAJASTHAN",
+    "level2": "STATE",
+    "level2Code": "08"
+  },
+  {
+    "level2ID": "051D78A7-0BCF-42C3-AD76-F7EE6E4966A9",
+    "level2Name": "SIKKIM",
+    "level2": "STATE",
+    "level2Code": "11"
+  },
+  {
+    "level2ID": "BE8DE3C1-7966-47BC-ABC5-D3E1C1CC50F3",
+    "level2Name": "TAMIL NADU",
+    "level2": "STATE",
+    "level2Code": "33"
+  },
+  {
+    "level2ID": "20773CDE-D1B0-4338-9D32-43AB335CDA90",
+    "level2Name": "TELANGANA",
+    "level2": "STATE",
+    "level2Code": "36"
+  },
+  {
+    "level2ID": "6BB658DA-1E4F-445D-AFC1-1276C51FD906",
+    "level2Name": "TRIPURA",
+    "level2": "STATE",
+    "level2Code": "16"
+  },
+  {
+    "level2ID": "A3E1E1AD-A0F1-41F1-B557-741769808B77",
+    "level2Name": "UTTAR PRADESH",
+    "level2": "STATE",
+    "level2Code": "09"
+  },
+  {
+    "level2ID": "74B7F070-19E4-4DA6-AF8F-263EE5A6021C",
+    "level2Name": "UTTARAKHAND",
+    "level2": "STATE",
+    "level2Code": "05"
+  },
+  {
+    "level2ID": "12522F0F-1B0D-4DA6-8150-A3C55ACD8B65",
+    "level2Name": "WEST BENGAL",
+    "level2": "STATE",
+    "level2Code": "19"
+  }
+]

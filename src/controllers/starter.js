@@ -11,4 +11,4 @@ const getStart = (req, res, next) => {
   })
 }
 
-export { getStart }
+module.exports = { getStart }
